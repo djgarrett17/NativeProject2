@@ -1,0 +1,12 @@
+{
+  "name": "loginFirebase",
+  "displayName": "loginFirebase",
+  "expo": {
+    "name": "loginFirebase",
+    "slug": "loginFirebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
